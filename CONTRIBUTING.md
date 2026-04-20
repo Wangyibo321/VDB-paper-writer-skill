@@ -111,7 +111,6 @@ I am submitting to PVLDB. What is the page limit? Is it double-blind?
 - [ ] The change is justified by a real development in the field or a real mistake encountered during paper writing
 - [ ] No AI-generated filler or marketing language introduced
 - [ ] If a new reference file was added, both `SKILL.md` and `README.md` are updated
-- [ ] `make build` succeeds locally
 - [ ] The change has been tested in Claude Code if possible
 
 ---
